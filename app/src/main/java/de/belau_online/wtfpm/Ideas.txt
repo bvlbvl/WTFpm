@@ -1,0 +1,12 @@
+Pics for good (Thumbs up)/Bad code (WTF)/Very Bad Code()
+    Menu settings of threshold
+Sounds for every wtf
+Update every second
+Save reviews
+Compare to old reviews and give comments
+Background pic
+
+findings
+
+Null time
+Delete textView elapsedmin

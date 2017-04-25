@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WTFpm</string>
+    <string name="app_title">WTFs per minute</string>
+    <string name="link_org">http://www.osnews.com/story/19266/WTFs_m</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="num_WTF">number of WTFs</string>
+    <string name="time_elapsed">Time elapsed</string>
+    <string name="wtf">WTF!</string>
+    <string name="org">Original Idea:</string>
+    <string name="reset">Reset</string>
+</resources>
